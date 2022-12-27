@@ -1,0 +1,22 @@
+{
+  "name": "spotifyinsights",
+  "version": "1.0.0",
+  "description": "Gives you insights into your listening history and makes predictions about your listening behaviour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poorvi-Yeluri/SpotifyInsights.git"
+  },
+  "author": "Poorvi Kaarthikeya Yeluri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poorvi-Yeluri/SpotifyInsights/issues"
+  },
+  "homepage": "https://github.com/Poorvi-Yeluri/SpotifyInsights#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
